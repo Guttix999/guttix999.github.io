@@ -1,8 +1,4 @@
 # guttix999.github.io 
-		
-
-		}
-	</estilo>
 </head>
 <corpo>
 	<cabeçalho>
