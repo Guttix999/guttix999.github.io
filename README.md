@@ -1,5 +1,4 @@
 
-<corpo>
 	<cabeçalho>
 		<h1>Eu amo a Manuela</h1>
 
