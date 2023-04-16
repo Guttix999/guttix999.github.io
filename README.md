@@ -1,5 +1,4 @@
-# guttix999.github.io 
-</head>
+
 <corpo>
 	<cabeçalho>
 		<h1>Eu amo a Manuela</h1>
